@@ -14,7 +14,7 @@ My name is Gabe and I'm from New York :)) I am a senior in high school somewhere
 
 
 - You can find me on [![Twitter][1.2]][1] as well :)
-- Really good with [Discord.py](https://discordpy.readthedocs.io/en/stable/#), so feel free to reach out for help with it.
+- Spent alot of time with [Discord.py](https://discordpy.readthedocs.io/en/stable/#), (or Discord.js and discordgo) so feel free to reach out for help with any of them.
 - **Soon.**
 
 <!-- Twitter info stuff -->
