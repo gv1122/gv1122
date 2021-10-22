@@ -10,13 +10,11 @@ $hi
 ![JS](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![Golang](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 
-My name is Gabe and I'm from New York :)) I am a senior in high school somewhere in [Long Island, NY](https://www.google.com/maps/place/Long+Island/@40.8507469,-73.5108529,9z/data=!3m1!4b1!4m5!3m4!1s0x89e84454e1eea5cb:0x1df7f96186940d18!8m2!3d40.789142!4d-73.134961). 
+hi im gabe
 
 
 - Currently learning Golang to buy some sneakers or some expensive t-shirts.
-- You can find me on [![Twitter][1.2]][1] as well :)
-- Spent alot of time with [Discord.py](https://discordpy.readthedocs.io/en/stable/#), (or Discord.js and discordgo) so feel free to reach out for help with any of them.
-- **Soon.**
+- follow me on twitter ty [![Twitter][1.2]][1] 
 
 <!-- Twitter info stuff -->
 [1.2]: http://i.imgur.com/wWzX9uB.png
