@@ -14,4 +14,5 @@ My name is Gabe, and I'm a Fullstack Character Typer from **Long Island, New Yor
 - working on the github stats i promise
 
 
-![Gabe Vega GitHub stats](https://github-readme-stats.vercel.app/api?username=gv1122&hide=contribs,prs)
+![Gabe Vega's GitHub stats](https://github-readme-stats.vercel.app/api?username=gv1122&hide=contribs,prs)
+[![Gabe Vega's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gv1122&theme=tokyonight&layout=compact)](https://wakatime.com/@gvv)
