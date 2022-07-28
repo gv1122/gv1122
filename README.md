@@ -9,7 +9,6 @@ My name is Gabe, and I'm a Fullstack Character Typer from **Long Island, New Yor
 
 - [gvega.me](https://gvega.me)
 - Python, Golang, Javascript, Typescript, Java, HTML / CSS
-- Currently working on [Kosher Kit](https://twitter.com/kosherkit/) and [Luminous Software](https://twitter.com/luminousftware)
 - Follow my [Twitter](https://twitter.com/damngv)!
 - working on the github stats i promise
 
