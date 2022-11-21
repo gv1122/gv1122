@@ -18,7 +18,7 @@ const gabe = {
       "solidity",
       "cpp (learning)"
     ],
-    askMeAbout: [
+    interests: [
       "programming", 
       "theoretical cs", 
       "photography"
