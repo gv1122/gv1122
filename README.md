@@ -5,4 +5,3 @@ im gabe :), and i'm a fullstack software dev from **Long Island, New York**
 ----
 
 - [gvega.me](https://gvega.me)
-- follow my [twitter](https://twitter.com/damngv)!
